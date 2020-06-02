@@ -1,3 +1,5 @@
+import '../css/componentes.css'
+
 export const saludar = (noum) => {
   console.log("nombre", noum);
   const h1 = document.createElement("h1");

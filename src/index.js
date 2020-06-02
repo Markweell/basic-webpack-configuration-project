@@ -1,4 +1,7 @@
 import { saludar } from "./js/componentes";
-const nombre = "Marcoss";
+import "./../styles.css";
+
+import img from "./assets/webpack.png";
+const nombre = "Marcos Gallardo Pérez";
 
 saludar(nombre);
